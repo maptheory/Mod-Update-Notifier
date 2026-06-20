@@ -1,7 +1,6 @@
 {
   "name": "mod-update-notifier",
-  "version": "1.0.0",
-  "description": "Discord bot to create roles and notify users on thread updates.",
+  "version": "1.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
